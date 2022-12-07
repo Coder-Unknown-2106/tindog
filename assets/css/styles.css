@@ -1,0 +1,123 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+#title{
+    background-color: #ff4c68;
+    padding: 3% 15%;
+}
+.head1{
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.2rem;
+  line-height: 1.5;
+    
+}
+
+.head2{
+
+  font-family: 'Montserrat', sans-serif;
+  font: size 3rem;
+  line-height: 1.5;
+}
+
+h3{
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.navbar-brand{
+  font-weight: bold;
+}
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+}
+.title-image{
+  width: 20%;
+  transform: rotate(25deg);
+  position: absolute;
+ 
+}
+/* features */
+#features{
+  padding: 7% 15%; 
+  background-color:white;
+ position: relative;
+}
+.feature-box{
+  text-align: center;
+ 
+}
+
+/* feature-icon */
+.feature-icon:hover{
+color: #ff4c68;
+}
+.feature-icon{
+  color: coral;
+  padding-bottom: 1rem;
+}
+
+
+/* testimonials */
+#testimonials{
+  font-family: 'Montserrat', sans-serif;
+  padding: 7% 15%;
+  text-align: center;
+  background-color: coral;
+  color: #fff;
+}
+
+
+
+.testimonial-image{
+  width: 15%;
+  border-radius: 100%;
+  margin: 1.5rem;
+
+}
+
+#press{
+  background-color: coral;
+  text-align: center;
+  padding: 3%;
+  padding-top: 30%;
+}
+
+.press-logo{
+  width: 15%;
+ margin: 20px 50px 20px;
+}
+/* cta */
+#cta{
+  background-color: #ff4c68;
+ 
+  text-align: center;
+}
+
+
+#footer{
+
+  text-align: center;
+}
+
+
+
+
+.py-5{
+  text-align: center;
+}
+  
+.fb:hover{
+  color: #0014FF;
+}
+
+.insta:hover{
+  color: #D23369;
+}
+.email:hover{
+  color: #F49D1A;
+}
+.twitter:hover{
+
+  color: #00E7FF;
+}
